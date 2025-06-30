@@ -8,6 +8,7 @@ I'm Szymon! I'm a student interested in artificial inteligence, I love to explor
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-BF55D5?style=flat-square&logo=kotlin&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-white?logo=sap)
+![Java](https://img.shields.io/badge/java-orange?logo=Java)
 ![TensorFlow](https://img.shields.io/badge/Tensorflow-red?logo=tensorflow)
 ![Pytorch](https://img.shields.io/badge/Pytorch-lightred?logo=pytorch)
 ![NumPy](https://img.shields.io/badge/numpy-darkred?logo=numpy)
