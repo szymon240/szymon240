@@ -9,6 +9,8 @@ I'm Szymon! I'm a student interested in artificial inteligence, I love to explor
 ![Kotlin](https://img.shields.io/badge/-Kotlin-BF55D5?style=flat-square&logo=kotlin&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-white?logo=sap)
 ![TensorFlow](https://img.shields.io/badge/Tensorflow-red?logo=tensorflow)
+![Pytorch](https://img.shields.io/badge/Pytorch-lightred?logo=pytorch)
+![NumPy](https://img.shields.io/badge/numpy-darkred?logo=numpy)
 
 
 <!--
